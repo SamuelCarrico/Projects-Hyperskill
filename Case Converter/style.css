@@ -1,0 +1,55 @@
+.title {
+    text-align: center;
+    font-size: 6rem;
+}
+
+.flexbox-button {
+    display: flex;
+}
+.flexbox-form {
+    display: flex;
+}
+
+#research-form {
+    width: 10rem;
+    height: 1.2rem;
+}
+
+#upper-case {
+    background-color: coral;
+    border-radius: 5px;
+    flex-direction: row;
+    flex: auto;
+    padding: 1em 1em 1em 1em;
+}
+
+#lower-case {
+    background-color: coral;
+    border-radius: 5px;
+    flex: auto;
+    flex-direction: row;
+    padding: 1em 1em 1em 1em;
+}
+#proper-case {
+    background-color: coral;
+    border-radius: 5px;
+    flex: auto;
+    flex-direction: row;
+    padding: 1em 1em 1em 1em;
+}
+#sentence-case {
+    background-color: coral;
+    border-radius: 5px;
+    flex: auto;
+    flex-direction: row;
+    padding: 1em 1em 1em 1em;
+}
+
+#save-text-file {
+    background-color: coral;
+    border-radius: 5px;
+    flex: auto;
+    flex-direction: row;
+    padding: 1em 1em 1em 1em;
+}
+

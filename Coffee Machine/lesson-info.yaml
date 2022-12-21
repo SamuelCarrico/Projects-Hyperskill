@@ -1,0 +1,9 @@
+type: framework
+content:
+- Coffee Machine/Making coffee
+- Coffee Machine/Ingredient calculator
+- Coffee Machine/Coffee for all
+- "Coffee Machine/Buy, fill, take"
+- Coffee Machine/Keeping track of the supplies
+- Coffee Machine/The sandbox
+current_task: 5
